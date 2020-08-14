@@ -1,4 +1,4 @@
-Download a live audio from Onsen.ag Radio
+Download a live audio from onsen.ag Radio
 ===
 Recently, onsen.ag has been changed streaming method.
 So far, Changed from serveing static content to Amazon CloudFront media streaming(HLS format).
